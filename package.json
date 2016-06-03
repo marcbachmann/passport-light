@@ -1,0 +1,25 @@
+{
+  "name": "passport-light",
+  "version": "1.0.0",
+  "description": "A lightweight passport authenticator which responsiblity is only to execute strategies",
+  "main": "authenticate.js",
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "keywords": [
+    "passport"
+  ],
+  "author": "Marc Bachmann <marc.brookman@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcbachmann/passport-light.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marcbachmann/passport-light/issues"
+  },
+  "homepage": "https://github.com/marcbachmann/passport-light#readme",
+  "devDependencies": {
+    "standard": "^7.1.1"
+  }
+}

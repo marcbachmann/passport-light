@@ -2,7 +2,7 @@
   "name": "passport-light",
   "version": "1.0.0",
   "description": "A lightweight passport authenticator which responsiblity is only to execute strategies",
-  "main": "authenticate.js",
+  "main": "index.js",
   "scripts": {
     "test": "standard && node test.js"
   },

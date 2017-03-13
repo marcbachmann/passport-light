@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/marcbachmann/passport-light#readme",
   "devDependencies": {
-    "standard": "^8.1.0",
+    "standard": "^9.0.1",
     "tape": "^4.5.1"
   }
 }

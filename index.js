@@ -82,4 +82,3 @@ function mandatory (val, key) {
     throw new Error("The parameter '" + key + "' is mandatory")
   }
 }
-

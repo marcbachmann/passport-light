@@ -1,5 +1,7 @@
 # Passport strategy execution
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/marcbachmann/passport-light.svg)](https://greenkeeper.io/)
+
 ```javascript
 var Strategy = require('./some-strategy')
 var strategy = new Strategy({clientId: 'foo'}, function (user, done) {

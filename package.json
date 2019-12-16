@@ -21,6 +21,6 @@
   "homepage": "https://github.com/marcbachmann/passport-light#readme",
   "devDependencies": {
     "standard": "^11.0.0",
-    "tape": "^4.5.1"
+    "tape": "^4.12.0"
   }
 }
